@@ -6,6 +6,16 @@
     margin: 0;
 }
 
+input,
+div,
+textarea,
+button,
+select,
+details,
+a {
+    -webkit-tap-highlight-color: transparent;
+}
+
 html {
     user-select: none;
     scroll-behavior: smooth;
